@@ -62,7 +62,7 @@ TubeBuddy • VidIQ • Repurpose.io <br>
 ---
 
 🔗 **Let’s Connect**  
-📬 [LinkedIn](https://www.linkedin.com/in/karan-chaurasiya) • [Website](https://cosmicgrowthmedia.com)
+📬 [LinkedIn](https://www.linkedin.com/in/karan-chaurasiya-693b86252/) • [Website](https://cosmicgrowthmedia.com)
 
 ---
 
