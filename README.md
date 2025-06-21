@@ -33,22 +33,24 @@ I'm currently a Final year B.Tech student, exploring backend dev, tools, and sys
 💡 Let’s connect — collaborate, code, or create something awesome together!
 
 ---
-
-🌟 **What I’m Working On**
-🛠 Learning Frontend development and workflow AI automation  
-📈 Scaling my creative agency  
-🎨 Building projects that bridge tech with content systems  
+### 🌟 What I’m Working On
+<sub>
+🛠 Learning Frontend development and workflow AI automation.<br>
+📈 Scaling my creative agency. <br>
+🎨 Building projects that bridge tech with content systems. <br>
+</sub>
 ---
 
 💻 **Tech Stack**
-Languages & Backend:
-HTML • CSS • Python • REST APIs
-Tools & Platforms:
-Git • GitHub • Notion • Airtable • Zapier • Canva • Figma
-Creative & Content Systems:
-DaVinci Resolve • Descript • CapCut • Frame.io
-Marketing & SEO:
-TubeBuddy • VidIQ • Repurpose.io
+
+Languages & Backend:<br>
+HTML • CSS • Python • REST APIs <br>
+Tools & Platforms:<br>
+Git • GitHub • Notion • Airtable • Zapier • Canva • Figma<br>
+Creative & Content Systems:<br>
+DaVinci Resolve • Descript • CapCut • Frame.io<br>
+Marketing & SEO:<br>
+TubeBuddy • VidIQ • Repurpose.io <br>
 
 ---
 
